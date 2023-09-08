@@ -1,5 +1,11 @@
 # AWS GPT
 
+     _     __        __  ____     ____   ____    _____
+    / \    \ \      / / / ___|   / ___| |  _ \  |_   _|
+   / _ \    \ \ /\ / /  \___ \  | |  _  | |_) |   | |
+  / ___ \    \ V  V /    ___) | | |_| | |  __/    | |
+ /_/   \_\    \_/\_/    |____/   \____| |_|       |_|
+
 So, you've made you're frontend using some AI chatbot? You've tested it
 and made sure that it works and does whatever you want it to do. But how do
 you deploy it and let anyone in the world access it? AWS GPT solves this 
