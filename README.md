@@ -21,4 +21,12 @@ Then run the CLI program with
 cargo run
 ```
 
+# Features
+
+## Cost calculator
+
+## Advisor
+
+## DevOps engineer
+
 
