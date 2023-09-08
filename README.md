@@ -1,4 +1,4 @@
-# AGT GPT
+# AWS GPT
 
 So, you've made you're frontend using some AI chatbot? You've tested it
 and made sure that it works and does whatever you want it to do. But how do
