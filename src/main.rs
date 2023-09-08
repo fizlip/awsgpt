@@ -1,11 +1,18 @@
 use openai_rust;
 use openai_rust::futures_util::StreamExt;
 use std::io::Write;
+use figlet_rs::FIGfont;
 
 use std::io;
 
 #[tokio::main]
 async fn main() {
+
+    let standard_font = FIGfont::standard().unwrap();
+    let figure = standard_font.convert("AWSGPT");
+
+    println!("{}", figure.unwrap());
+
     let user = whoami::username();
     let msgs = &mut vec![openai_rust::chat::Message {
         role: "user".to_owned(),
